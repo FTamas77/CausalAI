@@ -7,6 +7,7 @@ import pandas as pd
 import matplotlib.pyplot as plt
 
 
+
 def scatter_plot_with_correlation_line(x, y):
     plt.scatter(x, y, c="#c23424")
 
